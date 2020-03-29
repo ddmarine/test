@@ -1,0 +1,745 @@
+{
+	"index": {
+		"杭州": [
+			{
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind1.jpg",
+				"pro_name": "关键词 GJC1957 两件套",
+				"pro_text": "套装2019年夏季时尚潮流舒适简约个性短款短袖",
+				"pro_price": "125"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind2.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind3.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind4.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind5.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind6.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind7.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind8.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind9.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind10.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind11.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind12.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind13.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind14.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind15.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind16.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind17.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind18.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind19.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind20.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}
+		],
+		"广州": [
+			{
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind21.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind22.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind23.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind24.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind25.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind26.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind27.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind28.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind29.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind30.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind31.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind21.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind33.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind34.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind35.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind36.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind37.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind38.jpg",
+				"pro_name": "欧曼妮 OMN1929 三件套",
+				"pro_text": "舒适2019年夏季时尚潮流气质圆领高腰简约百搭个性纯色连体裤",
+				"pro_price": "115"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind39.jpg",
+				"pro_name": "玉花园 YHY8027",
+				"pro_text": "2019年夏季时尚格子潮流气质简约百搭短袖三件套套裤",
+				"pro_price": "140"
+			}, {
+				"pro_id": 1001,
+				"pro_img": "../../static/img/ind40.jpg",
+				"pro_name": "欧曼妮 OMN1922",
+				"pro_text": "新款连衣裙YHY8027P70控128",
+				"pro_price": "70"
+			}
+		],
+		"濮院": {},
+		"织里": {}
+	},
+	"category": {
+		"杭州": {
+			"女装": {
+				"推荐分类": [
+					{
+						"cate_name": "衬衫",
+						"img": "../../static/img/colthes1.png"
+					}, {
+						"cate_name": "连衣裙",
+						"img": "../../static/img/colthes2.png"
+					}, {
+						"cate_name": "蕾丝衫/雪纺衫",
+						"img": "../../static/img/colthes3.png"
+					}, {
+						"cate_name": "裤子",
+						"img": "../../static/img/colthes4.png"
+					}, {
+						"cate_name": "牛仔裤",
+						"img": "../../static/img/colthes5.png"
+					}, {
+						"cate_name": "针织衫/毛衣",
+						"img": "../../static/img/colthes6.png"
+					}, {
+						"cate_name": "卫衣/绒衫",
+						"img": "../../static/img/colthes7.png"
+					}
+				],
+				"上装分类": [
+					{
+						"cate_name": "T桖",
+						"img": "../../static/img/colthes8.png"
+					}, {
+						"cate_name": "衬衫",
+						"img": "../../static/img/colthes1.png"
+					}, {
+						"cate_name": "马夹",
+						"img": "../../static/img/colthesClass4.png"
+					}, {
+						"cate_name": "棉衣/棉服",
+						"img": "../../static/img/colthesClass6.png"
+					}, {
+						"cate_name": "羽绒服",
+						"img": "../../static/img/colthesClass9.png"
+					}, {
+						"cate_name": "短外套",
+						"img": "../../static/img/colthesClass10.png"
+					}
+				],
+				"裤装分类": [
+					{
+						"cate_name": "短裤/热裤",
+						"img": "../../static/img/colthes5.png"
+					}, {
+						"cate_name": "牛仔裤",
+						"img": "../../static/img/colthesClass22.png"
+					}, {
+						"cate_name": "连体裤",
+						"img": "../../static/img/colthesClass24.png"
+					}
+				],
+				"裙装分类": [
+					{
+						"cate_name": "连衣裙",
+						"img": "../../static/img/colthes3.png"
+					}, {
+						"cate_name": "半身裙",
+						"img": "../../static/img/colthesClass26.png"
+					}
+				]
+			},
+			"男装": {
+				"推荐分类": [
+					{
+						"cate_name": "针织衫/毛衣",
+						"img": "../../static/img/menClass3.png"
+					}, {
+						"cate_name": "夹克",
+						"img": "../../static/img/menClass4.png"
+					}, {
+						"cate_name": "卫衣",
+						"img": "../../static/img/menClass6.png"
+					}, {
+						"cate_name": "套装",
+						"img": "../../static/img/menClass18.png"
+					}, {
+						"cate_name": "棉裤",
+						"img": "../../static/img/menClass21.png"
+					}
+				],
+				"男装分类": [
+					{
+						"cate_name": "衬衫",
+						"img": "../../static/img/menClass1.png"
+					}, {
+						"cate_name": "T桖",
+						"img": "../../static/img/menClass2.png"
+					}, {
+						"cate_name": "皮裤",
+						"img": "../../static/img/menClass16.png"
+					}, {
+						"cate_name": "民族服装",
+						"img": "../../static/img/menClass15.png"
+					}, {
+						"cate_name": "西裤",
+						"img": "../../static/img/menClass16.png"
+					}, {
+						"cate_name": "西服套转",
+						"img": "../../static/img/menClass17.png"
+					}, {
+						"cate_name": "背心/马甲",
+						"img": "../../static/img/menClass19.png"
+					}, {
+						"cate_name": "休闲裤",
+						"img": "../../static/img/menClass5.png"
+					}, {
+						"cate_name": "Polo衫",
+						"img": "../../static/img/menClass6.png"
+					}, {
+						"cate_name": "内衣",
+						"img": "../../static/img/menClass28.png"
+					}
+				]
+			},
+			"孕妇装": {
+				"孕妇装": [
+					{
+						"cate_name": "孕妇装",
+						"img": "../../static/img/colthesClass28.png"
+					}
+				]
+			}
+		},
+		"广州": {
+			"女装": {
+				"推荐分类": [
+					{
+						"cate_name": "衬衫",
+						"img": "../../static/img/colthes1.png"
+					}, {
+						"cate_name": "连衣裙",
+						"img": "../../static/img/colthes2.png"
+					}, {
+						"cate_name": "蕾丝衫/雪纺衫",
+						"img": "../../static/img/colthes3.png"
+					}, {
+						"cate_name": "裤子",
+						"img": "../../static/img/colthes4.png"
+					}, {
+						"cate_name": "牛仔裤",
+						"img": "../../static/img/colthes5.png"
+					}, {
+						"cate_name": "针织衫/毛衣",
+						"img": "../../static/img/colthes6.png"
+					}, {
+						"cate_name": "卫衣/绒衫",
+						"img": "../../static/img/colthes7.png"
+					}
+				],
+				"上装分类": [
+					{
+						"cate_name": "T桖",
+						"img": "../../static/img/colthes8.png"
+					}, {
+						"cate_name": "衬衫",
+						"img": "../../static/img/colthes1.png"
+					}, {
+						"cate_name": "马夹",
+						"img": "../../static/img/colthesClass4.png"
+					}, {
+						"cate_name": "棉衣/棉服",
+						"img": "../../static/img/colthesClass6.png"
+					}, {
+						"cate_name": "羽绒服",
+						"img": "../../static/img/colthesClass9.png"
+					}, {
+						"cate_name": "短外套",
+						"img": "../../static/img/colthesClass10.png"
+					}
+				],
+				"裤装分类": [
+					{
+						"cate_name": "短裤/热裤",
+						"img": "../../static/img/colthes5.png"
+					}, {
+						"cate_name": "牛仔裤",
+						"img": "../../static/img/colthesClass22.png"
+					}, {
+						"cate_name": "连体裤",
+						"img": "../../static/img/colthesClass24.png"
+					}
+				],
+				"裙装分类": [
+					{
+						"cate_name": "连衣裙",
+						"img": "../../static/img/colthes3.png"
+					}, {
+						"cate_name": "半身裙",
+						"img": "../../static/img/colthesClass26.png"
+					}
+				]
+			},
+			"男装": {
+				"防晒衣": [
+					{
+						"cate_name": "防晒衣",
+						"img": "../../static/img/colthesClass13.png"
+					}
+				]
+			}
+		},
+		"濮院": {},
+		"织里": {}
+	},
+	"goods": {
+		"衬衫": {
+			"1001": {
+				"listimg": "../../static/img/productclass_233.jpg",
+				"swi_img": [
+					"../../static/img/productclass_233.jpg",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 55,
+				"msg": "夏季衬衫1001",
+				"card": "GJC1957",
+				"site": "杭州",
+				"shop_name": "志军店",
+				"spe_img": [
+					"../../static/img/productclass_233.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 100
+			},
+			"1002": {
+				"listimg": "../../static/img/productclass_233.jpg",
+				"swi_img": [
+					"../../static/img/productclass_233.jpg",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 60,
+				"msg": "夏季衬衫1002",
+				"card": "GJC1958",
+				"site": "杭州",
+				"shop_name": "冠亨店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 110
+			},
+			"1003": {
+				"listimg": "../../static/img/productclass_233.jpg",
+				"swi_img": [
+					"../../static/img/productclass_233.jpg",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 80,
+				"msg": "夏季衬衫1003",
+				"card": "GJC1958",
+				"site": "杭州",
+				"shop_name": "冠亨店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 210
+			},
+			"1004": {
+				"listimg": "../../static/img/productclass_233.jpg",
+				"swi_img": [
+					"../../static/img/productclass_233.jpg",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 66,
+				"msg": "夏季衬衫1004",
+				"card": "GJC1958",
+				"site": "杭州",
+				"shop_name": "冠亨店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 180
+			},
+			"1005": {
+				"listimg": "../../static/img/productclass_233.jpg",
+				"swi_img": [
+					"../../static/img/productclass_233.jpg",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 70,
+				"msg": "夏季衬衫1005",
+				"card": "GJC1958",
+				"site": "杭州",
+				"shop_name": "冠亨店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 50
+			},
+			"1006": {
+				"listimg": "../../static/img/colthesClass14.png",
+				"swi_img": [
+					"../../static/img/colthesClass14.png",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 200,
+				"msg": "夏季衬衫1006",
+				"card": "GJC1958",
+				"site": "杭州",
+				"shop_name": "冠亨店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 30
+			}
+		},
+		"连衣裙": {
+			"1011": {
+				"listimg": "../../static/img/colthesClass14.png",
+				"swi_img": [
+					"../../static/img/colthesClass14.png",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 347,
+				"msg": "连衣裙1011",
+				"card": "GJC1957",
+				"site": "杭州",
+				"shop_name": "志军店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 198
+			},
+			"1012": {
+				"listimg": "../../static/img/colthesClass18.png",
+				"swi_img": [
+					"../../static/img/colthesClass18.png",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 443,
+				"msg": "连衣裙1012",
+				"card": "GJC19538",
+				"site": "广州天河",
+				"shop_name": "大佬店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 215
+			},
+			"1013": {
+				"listimg": "../../static/img/colthesClass24.png",
+				"swi_img": [
+					"../../static/img/colthesClass24.png",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 245,
+				"msg": "连衣裙1013",
+				"card": "GJC1958",
+				"site": "上海",
+				"shop_name": "海恒店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 10
+			},
+			"1014": {
+				"listimg": "../../static/img/productclass_287.jpg",
+				"swi_img": [
+					"../../static/img/productclass_287.jpg",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 260,
+				"msg": "连衣裙1014",
+				"card": "GJC1958",
+				"site": "重庆",
+				"shop_name": "谈深店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 17
+			},
+			"1015": {
+				"listimg": "../../static/img/productclass_316.png",
+				"swi_img": [
+					"../../static/img/productclass_316.png",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 385,
+				"msg": "连衣裙1015",
+				"card": "GJC19584",
+				"site": "广州",
+				"shop_name": "靓仔店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 181
+			},
+			"1016": {
+				"listimg": "../../static/img/productclass_286.jpg",
+				"swi_img": [
+					"../../static/img/productclass_286.jpg",
+					"../../static/img/productclass_275.jpg",
+					"../../static/img/productclass_277.jpg",
+					"../../static/img/productclass_278.jpg",
+					"../../static/img/productclass_279.jpg"
+				],
+				"price": 752,
+				"msg": "连衣裙1016",
+				"card": "GJC19778",
+				"site": "广州",
+				"shop_name": "映斯店",
+				"spe_img": [
+					"../../static/img/productclass_280.jpg",
+					"../../static/img/productclass_281.jpg",
+					"../../static/img/productclass_283.jpg",
+					"../../static/img/productclass_284.jpg",
+					"../../static/img/productclass_287.jpg"
+				],
+				"redu": 86
+			}
+		}
+	}
+}
