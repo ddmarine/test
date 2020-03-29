@@ -17,6 +17,8 @@ Vue.use(vueSwiper)
 
 //引入和使用axios
 import axios from "axios"
+
+
 Vue.prototype.axios =axios
 
 
